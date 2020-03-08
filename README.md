@@ -1,2 +1,2 @@
 # Promise
-I like study.
+Learning……
